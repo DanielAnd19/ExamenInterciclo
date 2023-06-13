@@ -1,0 +1,7 @@
+com\usuarios\m5a\model\Usuario.class
+com\usuarios\m5a\UsuariosApplication.class
+com\usuarios\m5a\repository\UsuarioRepository.class
+com\usuarios\m5a\controller\UsuarioController.class
+com\usuarios\m5a\service\GenericServiceImpl.class
+com\usuarios\m5a\service\UsuarioServiceImpl.class
+com\usuarios\m5a\service\GenericService.class
